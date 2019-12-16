@@ -56,7 +56,7 @@ def createGoogleMap(lat, long, MapType="S", filename="DEFAULT"):
         #gmap3 is used to do the actual plotting for the google html file
         gmap3 = gmplot.GoogleMapPlotter(30.32106, 
                                     -97.74958, 12,
-                                  apikey = 'AIzaSyCWbeUa9G8zEN5R8gqo_e9V7bIlzidg5B8') 
+                                  apikey = 'YOUR OWN API KEY') 
         inProj = Proj(init='epsg:2277', preserve_units = True)
         outProj = Proj(init='epsg:4326')
         x1,y1 = np.array(lat), np.array(long)   #Handles State plane to Lat/long
