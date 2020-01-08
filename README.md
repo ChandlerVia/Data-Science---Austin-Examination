@@ -8,4 +8,6 @@ The goal of the project itself was purely to explore a data set to draw conclusi
 
 ## The Program itself:
 
-Python was the chosen language of the course, solely for it's powerful libraries like Pandas and Matplotlib. It makes it easy to visualize the data and distplay it in many different ways without having to bend over backwards. While working on the project, I made it a point to seperate the logic into clearly defined objectives so that you can read through the results with more ease. Firstly, 
+Python was the chosen language of the course, solely for it's powerful libraries like Pandas and Matplotlib. It makes it easy to visualize the data and distplay it in many different ways without having to bend over backwards. While working on the project, I made it a point to seperate the logic into clearly defined objectives so that you can read through the results with more ease.
+
+TODO: Explain code process
